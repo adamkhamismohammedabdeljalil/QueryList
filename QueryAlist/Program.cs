@@ -1,8 +1,12 @@
-﻿
-var random = new Random();
-var range = Enumerable.Range(0, 1000).Select(number=>random.Next(0,2000)).ToList();
+﻿using System.Linq;
 
-printAll(GetEvenNumbers(range));
+var random = new Random();
+
+var range = Enumerable.Range(0, 1000).Select(number => random.Next(0, 2000)).ToList();
+
+Console.WriteLine("Uneven numbers");
+
+printAll(GetUnEvenNumbersQuery(range));
 void printAll(IEnumerable<int> numbers)
 {
     foreach (var number in numbers)
@@ -15,16 +19,11 @@ foreach (var item in range)
 {
     Console.WriteLine(item);
 }
- IEnumerable<int>GetEvenNumbers(IEnumerable<int> numbers)
-{
-    var evenNumbers = new List<int>();
-    foreach (var number in numbers)
-    {
-        if (number % 2==0)
-        {
-            evenNumbers.Add(number);
 
-        }
-    }
-    return evenNumbers;
+//Query syntax
+IEnumerable<int> GetUnEvenNumbersQuery(IEnumerable<int> numbers)
+{
+    return (from number in numbers
+            where number % 2 == 1
+            select number);
 }
