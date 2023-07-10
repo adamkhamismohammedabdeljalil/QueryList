@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\bin\Debug\net6.0\QueryAlist.exe
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\bin\Debug\net6.0\QueryAlist.deps.json
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\bin\Debug\net6.0\QueryAlist.runtimeconfig.json
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\bin\Debug\net6.0\QueryAlist.dll
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\bin\Debug\net6.0\QueryAlist.pdb
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.dll
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\refint\QueryAlist.dll
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.pdb
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\QueryAlist.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\QueryAlist\QueryAlist\obj\Debug\net6.0\ref\QueryAlist.dll
